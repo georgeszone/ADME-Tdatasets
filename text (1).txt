@@ -1,0 +1,1 @@
+https://chembl.gitbook.io/chembl-interface-documentation/legacy-resources - Legacy resources from ChEMBL, these are no longer supported by their developers
