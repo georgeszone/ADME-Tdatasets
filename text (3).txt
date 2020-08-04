@@ -1,0 +1,3 @@
+https://www.rsc.org/Merck-Index/ - the Merck Index. A national standard database provided by Merck, Sharp and Dohne (MSD) with InCHI ID's of lots of prescribed drugs
+
+http://www.chemspider.com/ - ChemSpider from the Royal Society of Chemistry, has information about chemical properties of drugs eg logP, LogD, H bond donors/acceptor count
