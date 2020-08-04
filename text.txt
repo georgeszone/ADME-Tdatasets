@@ -1,0 +1,10 @@
+https://chembl.gitbook.io/chembl-interface-documentation/downloads - ChEMBL databases
+
+
+https://www.ebi.ac.uk/services - european bioinformatics institute data sources
+
+
+https://pubchem.ncbi.nlm.nih.gov/source/ - PubChem (USA Chemistry resources)
+
+
+each has an extremely large volume of data across different types of bioinformatics data
